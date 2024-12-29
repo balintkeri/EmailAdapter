@@ -1,5 +1,5 @@
 # EmailAdapter
-A simple tool for email automation with python 3+
+A simple tool for email automation on my Raspberry Pi 3 B+
 
 
 | Email Provider | Login | Register | Send Email | Read Inbox |
