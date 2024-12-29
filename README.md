@@ -1,5 +1,5 @@
 # EmailAdapter
-A simple tool for email automation 
+A simple tool for email automation with python 3+
 
 
 | Email Provider | Login | Register | Send Email | Read Inbox |
