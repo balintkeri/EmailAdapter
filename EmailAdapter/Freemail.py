@@ -2,7 +2,7 @@
 import time
 import datetime
 
-from Base import BaseEmail
+from EmailAdapter.Base import BaseEmail
 
 from selenium.webdriver.common.by import By
 
