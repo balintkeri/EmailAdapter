@@ -22,7 +22,7 @@ git checkout
 ```
 
 ## Usage
-Dependency : Selenium
+Dependency : Selenium and Python 3
 
 ```
 import datetime
